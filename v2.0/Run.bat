@@ -1,0 +1,1 @@
+"C:\Program Files\Bochs-2.6.7\bochs" -q -f bochsrc_floppy_run

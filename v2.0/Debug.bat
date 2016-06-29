@@ -1,0 +1,1 @@
+"C:\Program Files\Bochs-2.6.7\bochsdbg" -q -f bochsrc_floppy_dbg
